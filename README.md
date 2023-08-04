@@ -4,8 +4,7 @@ Javascript Expression Language: Powerful context-based expression parser and eva
 
 This is forked from the original work by [Tom Frost](https://github.com/TomFrost/Jexl) due to
 the original repository suffering from lack of maintenance for 2 years at the time of this
-fork. No modifications have been made other than the change of a package.json in order to
-facilitate the publishing of a new release of already-included bug fixes.
+fork.
 
 ## Quick start
 
